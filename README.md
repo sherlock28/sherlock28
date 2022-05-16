@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there. My name is Rodolfo👋
 
-### My name is Rodolfo, I'm from Argentina and I'm a Software Developer.
+### I'm software developer based in Argentina.
 
 <!--
 **sherlock28/sherlock28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
