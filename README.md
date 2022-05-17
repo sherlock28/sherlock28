@@ -1,18 +1,16 @@
 ## Hi there. My name is Rodolfo👋
 
-### I'm software developer based in Argentina.
+I'm from Argentina and I'm a software developer
 
-<!--
-**sherlock28/sherlock28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills 
 
-Here are some ideas to get you started:
+- HTML. CSS, Javascript
+- React.js, Vue.js
+- Bootstrap, Chakra UI
+- Node.js, C#
+- MySQL, Postgresql, MongoDB
+- Docker, Ansible, GitLab CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+
+You can see my contacts in my summary on my website [rododev](https://rododev.vercel.app)
