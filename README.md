@@ -13,4 +13,4 @@ I'm from Argentina and I'm a software developer
 
 ### Contact
 
-You can see my contacts in my summary on my website [rododev](https://rododev.vercel.app)
+You can see my contacts and resume on my website [rododev](https://rododev.vercel.app)
