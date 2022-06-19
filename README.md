@@ -4,7 +4,7 @@ I'm from Argentina and I'm a software developer
 
 ### Skills 
 
-- HTML. CSS, Javascript
+- HTML. CSS, Javascript, Typescript
 - React.js, Vue.js
 - Bootstrap, Chakra UI
 - Node.js, C#, PHP
