@@ -5,7 +5,7 @@ I'm from Argentina and I'm a software developer
 ### Skills 
 
 - .NET Core, NodeJS/ExpressJS, PHP
-- MySQL, Postgresql, MongoDB
+- MySQL, Postgresql, MongoDB, Elasticsearch
 - Linux, Gitlab CI/CD, Ansible, Docker, Kubernetes, Openshift, Helm, Argo CD, AWS
 
 
