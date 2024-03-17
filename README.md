@@ -9,7 +9,7 @@ I'm from Argentina and I'm a software developer
 - Bootstrap, Chakra UI
 - .NET Core, NodeJS/ExpressJS, PHP
 - MySQL, Postgresql, MongoDB
-- Docker, Kubernetes, Ansible, GitLab CI/CD
+- Linux, Gitlab CI/CD, Ansible, Docker, Kubernetes, Openshift, Helm, Argo CD, AWS
 
 
 ### Contact
