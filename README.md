@@ -4,9 +4,6 @@ I'm from Argentina and I'm a software developer
 
 ### Skills 
 
-- HTML. CSS, Javascript, Typescript
-- React.js, Vue.js
-- Bootstrap, Chakra UI
 - .NET Core, NodeJS/ExpressJS, PHP
 - MySQL, Postgresql, MongoDB
 - Linux, Gitlab CI/CD, Ansible, Docker, Kubernetes, Openshift, Helm, Argo CD, AWS
