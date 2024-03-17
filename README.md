@@ -7,9 +7,10 @@ I'm from Argentina and I'm a software developer
 - HTML. CSS, Javascript, Typescript
 - React.js, Vue.js
 - Bootstrap, Chakra UI
-- Node.js, C#, PHP
+- .NET Core, NodeJS/ExpressJS, PHP
 - MySQL, Postgresql, MongoDB
-- Docker, Ansible, GitLab CI/CD
+- Docker, Kubernetes, Ansible, GitLab CI/CD
+
 
 ### Contact
 
