@@ -1,4 +1,6 @@
-## Hi there. My name is Rodolfo👋
+<div align="center">
+  <h1>Hi there. My name is Rodolfo 👋</h1>
+</div>
 
 I'm from Argentina and I'm a software developer
 
